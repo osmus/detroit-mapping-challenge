@@ -32,15 +32,21 @@
 >The US Tasking manager is a fork of the popular HOTSOM Tasking Manager. It allows mappers to define tasks by uploading a geojson file
 >which get gridded into managable areas for mapping. For the Detroit Mapping Challenge we created a grid of city blocks using open parcel
 >data to define right of ways and centerline data to define block segements. Each task for the challenge is defined by neighborhood
->boundaries as defined by the City of Detroit. Check out our test task for the [Corktown Section of Detroit](https://tasks.openstreetmap.us/project/50)
->and be on the lookout for additional challenges as we progress towards SOTMUS.
+>boundaries as defined by the City of Detroit. Check out our test task for the [Corktown Section of Detroit](https://tasks.openstreetmap.us/project/50).
+>Be on the lookout for additional challenges as we progress towards SOTMUS.
 
 
 #### SOTM-US Mapping Party
 - need more deets here
 
-#### Mapping Parties before SOTMUS?
-- need more deets here
+#### Pre-SOTMUS Mapathon
+
+Point of Contact: [Alex B Hill](https://twitter.com/alexbhill)  
+When: Wednesday, September 19th 6-9pm  
+Where:  
+   Wayne State University, Stilgenbauer Computer Lab  
+   State Hall, Room 223  
+   5143 Cass Avenue, Detroit, MI 48202  
 
 #### Tracking #hashtags & Statistics for challenge
-- need more deets here
+The hashtag for the Detroit Mapping Challenge is #sotmus2018
