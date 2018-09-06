@@ -24,7 +24,7 @@
 >Vector Tile Layer feature mentioned above, editors can add either of 2 layers created for this challenge. The first is business information
 >provided by the City of Detroit. The seconds is an export of POI's from [alltheplaces.xyz](https://www.alltheplaces.xyz). Both of these
 >layers have the location of the point with the business name and addresses as supporting labels. Using these in conjunction with
->Bing Streetside Imagery and Mapillary Street-level images, anyone can participate from around the world.
+>Bing Streetside Imagery, OpenStreetCam, and Mapillary Street-level images, anyone can participate from around the world.
 
 
 #### OSM US Task Manager
@@ -32,12 +32,19 @@
 >The US Tasking manager is a fork of the popular HOTSOM Tasking Manager. It allows mappers to define tasks by uploading a geojson file
 >which get gridded into managable areas for mapping. For the Detroit Mapping Challenge we created a grid of city blocks using open parcel
 >data to define right of ways and centerline data to define block segements. Each task for the challenge is defined by neighborhood
->boundaries as defined by the City of Detroit. Check out our test task for the [Corktown Section of Detroit](https://tasks.openstreetmap.us/project/50).
->Be on the lookout for additional challenges as we progress towards SOTMUS.
-
-
-#### SOTM-US Mapping Party
-- need more deets here
+>boundaries as defined by the City of Detroit. We've been testing the workflow in the [Corktown Section of Detroit](https://tasks.openstreetmap.us/project/50), and have created an addtional set of tasks around the downtown area.
+- [North Corktown](https://tasks.openstreetmap.us/project/59)
+- [Hubbard Richard](https://tasks.openstreetmap.us/project/60)
+- [Downtown](https://tasks.openstreetmap.us/project/61)
+- [Greektown](https://tasks.openstreetmap.us/project/62)
+- [Lafayette Park](https://tasks.openstreetmap.us/project/63)
+- [Rivertown](https://tasks.openstreetmap.us/project/64)
+- [Elmwood Park](https://tasks.openstreetmap.us/project/65)
+- [Eastern Market](https://tasks.openstreetmap.us/project/66)
+- [Douglass](https://tasks.openstreetmap.us/project/67)
+- [Brewster Homes](https://tasks.openstreetmap.us/project/68)
+- [Brush Park](https://tasks.openstreetmap.us/project/69)
+- [Midtown](https://tasks.openstreetmap.us/project/70)
 
 #### Pre-SOTMUS Mapathon
 
@@ -48,5 +55,4 @@ Where:
    State Hall, Room 223  
    5143 Cass Avenue, Detroit, MI 48202  
 
-#### Tracking #hashtags & Statistics for challenge
-The hashtag for the Detroit Mapping Challenge is #sotmus2018
+>There are many ways to participate in the Detroit Mapping Challenge and we hope you'll join us!
