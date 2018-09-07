@@ -32,7 +32,7 @@ Where:
 >editor can zoom into any of the [city's 309 parks](https://data.detroitmi.gov/Fun/Parks-2016/yu9n-k8rd) and confirm the names, boundaries,
 >and hopefully add a few missing ones.  
 >
-In addition, one of the main goals of the Detroit Mapping Challenge is to [improve the POI coverage](https://github.com/osmus/detroit-mapping-challenge/issues/8)
+>In addition, one of the main goals of the Detroit Mapping Challenge is to [improve the POI coverage](https://github.com/osmus/detroit-mapping-challenge/issues/8)
 >in the region. This includes commercial and industrial businesses, restaraunts, and any other point of interest. Using the new ID
 >Vector Tile Layer feature mentioned above, editors can add either of 2 layers created for this challenge. The first is business information
 >provided by the City of Detroit. The seconds is an export of POI's from [alltheplaces.xyz](https://www.alltheplaces.xyz). Both of these
